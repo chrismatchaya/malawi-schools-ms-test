@@ -1,6 +1,0 @@
-{
-  "name": "Malawi Schools MS",
-  "description": "Offline-first school management system for tracking student attendance and teacher performance in rural districts of Malawi with role-based access and data analytics.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
